@@ -1,4 +1,4 @@
-# GCML (*G*roup **C**hat **M**arkup **L**anguage)
+# GCML (**G**roup **C**hat **M**arkup **L**anguage)
 
 ## 1. 文档结构
 ```xml
